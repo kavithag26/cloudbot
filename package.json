@@ -30,11 +30,11 @@
     "shelljs": "^0.7.0"
   },
   "peerDependencies": {
-    "i18n-2": "*"
+    "i18n-2":"^0.6.3"
   },
   "dependencies": {
     "cf-client": "latest",
-    "coffee-script": "1.10.0",
+    "coffee-script":"^1.12.6",
     "hubot": "^2.19.0",
     "hubot-cf-convenience": "latest",
     "hubot-conversation": "^1.1.1",
